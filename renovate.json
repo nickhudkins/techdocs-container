@@ -30,6 +30,7 @@
   "separateMajorMinor": true,
   "separateMinorPatch": false,
   "osvVulnerabilityAlerts": true,
+  "dependencyDashboard": true,
   "vulnerabilityAlerts": {
     "addLabels": ["security"],
     "enabled": true
